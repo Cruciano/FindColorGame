@@ -1,3 +1,3 @@
-#Find color game
+# Find color game
 
 Demo: https://cruciano.github.io/FindColorGame/
