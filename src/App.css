@@ -1,3 +1,26 @@
 .App {
 
 }
+
+.color-grid {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 200px 200px 200px;
+}
+
+.mistake {
+    margin-bottom: -42px;
+    height: 22px;
+}
+
+.color-container {
+    margin: 5px;
+    transition: 0.2s;
+}
+
+.color-container:hover {
+    margin: 20px;
+    transition: 0.2s;
+    cursor: pointer;
+}
