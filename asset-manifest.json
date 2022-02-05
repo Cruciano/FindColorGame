@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/find-color-game/static/css/main.038ff31d.css",
+    "main.js": "/find-color-game/static/js/main.b8acf78e.js",
+    "static/js/787.180caa92.chunk.js": "/find-color-game/static/js/787.180caa92.chunk.js",
+    "static/media/background.jpg": "/find-color-game/static/media/background.7b8b3b2ce83147f732c8.jpg",
+    "index.html": "/find-color-game/index.html",
+    "main.038ff31d.css.map": "/find-color-game/static/css/main.038ff31d.css.map",
+    "main.b8acf78e.js.map": "/find-color-game/static/js/main.b8acf78e.js.map",
+    "787.180caa92.chunk.js.map": "/find-color-game/static/js/787.180caa92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.038ff31d.css",
+    "static/js/main.b8acf78e.js"
+  ]
+}
