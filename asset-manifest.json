@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/find-color-game/static/css/main.038ff31d.css",
-    "main.js": "/find-color-game/static/js/main.b8acf78e.js",
-    "static/js/787.180caa92.chunk.js": "/find-color-game/static/js/787.180caa92.chunk.js",
-    "static/media/background.jpg": "/find-color-game/static/media/background.7b8b3b2ce83147f732c8.jpg",
-    "index.html": "/find-color-game/index.html",
-    "main.038ff31d.css.map": "/find-color-game/static/css/main.038ff31d.css.map",
-    "main.b8acf78e.js.map": "/find-color-game/static/js/main.b8acf78e.js.map",
-    "787.180caa92.chunk.js.map": "/find-color-game/static/js/787.180caa92.chunk.js.map"
+    "main.css": "/FindColorGame/static/css/main.55ff88b2.css",
+    "main.js": "/FindColorGame/static/js/main.d971ee2d.js",
+    "static/js/787.180caa92.chunk.js": "/FindColorGame/static/js/787.180caa92.chunk.js",
+    "static/media/background.jpg": "/FindColorGame/static/media/background.7b8b3b2ce83147f732c8.jpg",
+    "index.html": "/FindColorGame/index.html",
+    "main.55ff88b2.css.map": "/FindColorGame/static/css/main.55ff88b2.css.map",
+    "main.d971ee2d.js.map": "/FindColorGame/static/js/main.d971ee2d.js.map",
+    "787.180caa92.chunk.js.map": "/FindColorGame/static/js/787.180caa92.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.038ff31d.css",
-    "static/js/main.b8acf78e.js"
+    "static/css/main.55ff88b2.css",
+    "static/js/main.d971ee2d.js"
   ]
 }
